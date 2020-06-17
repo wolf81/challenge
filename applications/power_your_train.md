@@ -19,7 +19,7 @@ Households that have generated an oversupply of energy, can now make good use of
 
 The transportation provider will be paid in energy which could lower their costs, or that they can sell themselves and therefore still earn money.
 
-This concept will help EWFs goal by increasing the value of renewable energy. Energy will now become a means to pay for services. Services that by its nature –sustainable modes of transportation- also contribute to lowering emission costs. 
+This concept will help EWFs goal by increasing the value of renewable energy. Energy will now become a means to pay for services. Services that by its nature (sustainable modes of transportation) also contribute to lowering emission costs. 
 
 We expect that this model will have a compounding effect: 
 
