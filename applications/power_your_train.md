@@ -15,15 +15,14 @@ Our idea is to remodel public transportation where users literally power their o
 
 In western Europe, more and more buses, metros and trains run on alternative fuel. We now want consumers to pay for rides on these vehicles by transferring  their generated energy to the transportation provider.
 
-Households that have generated an oversupply of energy , can now make good use of this and trade it for an expense (transportation ticket) they most likely would have made any way.
+Households that have generated an oversupply of energy, can now make good use of this and trade it for an expense (transportation ticket) they most likely would have made any way.
 
 The transportation provider will be paid in energy which could lower their costs, or that they can sell themselves and therefore still earn money.
 
-This concept will help EWFs goal by increasing the value of renewable energy. Energy will now become a means to pay for services. Services that by its nature:
-– sustainable modes of transportation 
-- also contribute to lowering emission costs. 
+This concept will help EWFs goal by increasing the value of renewable energy. Energy will now become a means to pay for services. Services that by its nature –sustainable modes of transportation- also contribute to lowering emission costs. 
 
 We expect that this model will have a compounding effect: 
+
 - It will become cheaper for consumers to use public transportation, therefore making more use of it - and lower the usage of “dirty” car traffic. 
 - Transportation providers will see an uptick in demand and will invest more in sustainable modes of transport.
 
@@ -36,7 +35,9 @@ We will utilize the EWF blockchain to execute the energy transaction. The smart 
 
 ### Lean approach
 
-We are confident that this concept will take off and can be implemented. It is a very complex undertaking however with numerous parties involved. Therefore, we prefer to take the lean approach and start off on a small scale to develop an MVP.  We want to develop a test case in our home country of The Netherlands. We want to involve parties that are already closely aligned with EWF.
+We are confident that this concept will take off and can be implemented. It is a very complex undertaking however with numerous parties involved. Therefore, we prefer to take the lean approach and start off on a small scale to develop an MVP.
+
+We want to develop a test case in our home country of The Netherlands. We want to involve parties that are already closely aligned with EWF.
 
 In The Netherlands, the biggest transportation provider is the NS. They run the national rail service. In cooperation with their energy partner Eneco, they invest in durable energy. All trains are 100% powered by wind energy, and station halls are powered by green energy.
 
@@ -61,6 +62,7 @@ Our team can help in developing the product strategy, user research and integrat
 We have a vast experience with mobile development. We ran our own mobile development agency called Mobowski between 2010 and 2015.
 
 CV highlights:
+
 - Alexis Vos: Product Manager - heavy understanding of consumer apps for energy services (led the delivery of the British Gas app, and OVO Energy subsidiary Kantan).
 - Gerhard Schreurs: Backend engineer (.NET, C#). Worked for Lucrasoft, iCheck. Build the biggest electronic music sharing platform of The Netherlands in 2002 (www.exploitation.nl)
 - Wolfgang Schreurs: iOS engineer (Swift, Objective-C, C#). Worked for ING, Ahold, Backbase.  
