@@ -51,7 +51,7 @@ All payments for public travel are done via a (digital) account managed by Trans
 
 ## Team
 * **Members**: Alexis Vos, Gerhard Schreurs, Wolfgang Schreurs
-* **Code Repositories**: https://github.com/wolf81
+* **Code Repositories**: https://github.com/wolf81, https://github.com/alexisvos
 * **Website**: http://mobowski.com
 * **Team's Experience**:
 
