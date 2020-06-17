@@ -15,7 +15,9 @@ Our idea is to remodel public transportation where users literally power their o
 
 In western Europe, more and more buses, metros and trains run on alternative fuel. We now want consumers to pay for rides on these vehicles by transferring  their generated energy to the transportation provider.
 
-Households that have generated an oversupply of energy , can now make good use of this and trade it for an expense (transportation ticket) they most likely would have made any way.  The transportation provider will be paid in energy which could lower their costs, or that they can sell themselves and therefore still earn money.
+Households that have generated an oversupply of energy , can now make good use of this and trade it for an expense (transportation ticket) they most likely would have made any way.
+
+The transportation provider will be paid in energy which could lower their costs, or that they can sell themselves and therefore still earn money.
 
 This concept will help EWFs goal by increasing the value of renewable energy. Energy will now become a means to pay for services. Services that by its nature:
 – sustainable modes of transportation 
