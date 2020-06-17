@@ -5,7 +5,7 @@
 
 ## Project Description
 
-### EWT Challenge
+### EWT Challenge - Power your train
 Society has waking up to the need to reinvent energy. The way energy is produced but also consumed. Governments, corporations and citizens are in conversation to find solutions to the devastating effects our current energy model has on the environment and therefore the world.
 
 We believe that the three actors should come together. An interplay where being energy conscious should become natural behaviour. The digital infrastructure of EWF gives way to introduce new models of energy transactions.
@@ -31,10 +31,9 @@ There are varies way to implement this concept. It all depends on the participan
 
 Ideally it would be an all-encompassing ecosystem that connects all parties and requires little input from the consumer. Example: in the app of his energy provider, a user can set to automatically move a percentage of the self-generated oversupply in energy to a public transportation fund. The money value of this will be then transferred to his public transportation account.
 
-We will utilize the EWF blockchain to execute the energy transaction. The smart contract (powered by pricing oracles provided by ChainLink) will determine the money value of this transaction.
+We will utilize the EWT blockchain to execute the energy transaction. The smart contract (powered by pricing oracles provided by ChainLink) will determine the money value of this transaction.
 
 ### Lean approach
-
 We are confident that this concept will take off and can be implemented. It is a very complex undertaking however with numerous parties involved. Therefore, we prefer to take the lean approach and start off on a small scale to develop an MVP.
 
 We want to develop a test case in our home country of The Netherlands. We want to involve parties that are already closely aligned with EWF.
@@ -64,8 +63,11 @@ We have a vast experience with mobile development. We ran our own mobile develop
 CV highlights:
 
 - Alexis Vos: Product Manager - heavy understanding of consumer apps for energy services (led the delivery of the British Gas app, and OVO Energy subsidiary Kantan).
-- Gerhard Schreurs: Backend engineer (.NET, C#). Worked for Lucrasoft, iCheck. Build the biggest electronic music sharing platform of The Netherlands in 2002 (www.exploitation.nl)
-- Wolfgang Schreurs: iOS engineer (Swift, Objective-C, C#). Worked for ING, Ahold, Backbase.  
+LinkedIn: www.linkedin.com/in/alexis-vos/
+- Gerhard Schreurs: Backend / Androd developer (.NET, C#, Xmarin). Worked for Lucrasoft, iCheck. Build the biggest electronic music sharing platform of The Netherlands in 2002 (www.exploitation.nl). 
+Linkedin: www.linkedin.com/in/gerhard-schreurs-2809a21b/
+- Wolfgang Schreurs: iOS engineer (Swift, Objective-C, C#). Worked for ING, Ahold, Backbase. 
+LinkedIn:www.linkedin.com/in/wolfgangschreurs/ 
 
 ## Development Roadmap
 Depending on the exact requirements and resources available from the integration partners, we expect to be able to deliver this in a 8-12 week timeframe.
