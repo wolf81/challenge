@@ -64,7 +64,7 @@ CV highlights:
 
 - Alexis Vos: Product Manager - heavy understanding of consumer apps for energy services (led the delivery of the British Gas app, and OVO Energy subsidiary Kantan).
 LinkedIn: www.linkedin.com/in/alexis-vos/
-- Gerhard Schreurs: Backend / Androd developer (.NET, C#, Xmarin). Worked for Lucrasoft, iCheck. Build the biggest electronic music sharing platform of The Netherlands in 2002 (www.exploitation.nl). 
+- Gerhard Schreurs: Backend / Androd developer (.NET, C#, Xmarin). Worked for Lucrasoft, iCheck. Build and managed the biggest electronic music sharing platform of The Netherlands, called Exploitation.nl (2000-2002). 
 Linkedin: www.linkedin.com/in/gerhard-schreurs-2809a21b/
 - Wolfgang Schreurs: iOS engineer (Swift, Objective-C, C#). Worked for ING, Ahold, Backbase. 
 LinkedIn:www.linkedin.com/in/wolfgangschreurs/ 
